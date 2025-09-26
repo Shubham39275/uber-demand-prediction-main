@@ -16,7 +16,7 @@ is_signature_from_type_hint: false
 mlflow_version: 3.3.1
 model_id: null
 model_size_bytes: 1897
-model_uuid: 57224abb0da64a24974d271406ff9bc7
+model_uuid: 4f086f9fb5594cb99e73309f4eefb043
 prompts: null
 signature:
   inputs: '[{"type": "double", "name": "ohe__region_1", "required": true}, {"type":
@@ -53,4 +53,4 @@ signature:
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
   params: null
 type_hint_from_example: false
-utc_time_created: '2025-09-09 14:49:23.771349'
+utc_time_created: '2025-09-24 05:28:04.837958'
